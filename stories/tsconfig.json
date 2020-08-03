@@ -1,0 +1,13 @@
+{
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    "jsx": "react",
+    "types": ["webpack-env"]
+  },
+  "include": [
+    "../src/**/*",
+    "../stories/**/*",
+    "../.storybook/utils/use-mock.tsx",
+    "../.storybook/utils/box.tsx"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    // prettier support
+    // see https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+    "esbenp.prettier-vscode",
+    // eslint support
+    // see https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+    "dbaeumer.vscode-eslint",
+    // syntax highlighting for css``
+    // see https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
+    "jpoissonnier.vscode-styled-components",
+    // cucumber support
+    // see https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocomplete
+    "alexkrechik.cucumberautocomplete",
+    // mdx support
+    // see https://marketplace.visualstudio.com/items?itemName=JounQin.vscode-mdx
+    "JounQin.vscode-mdx"
+  ]
+}
